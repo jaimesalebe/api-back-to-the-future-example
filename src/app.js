@@ -18,6 +18,11 @@ const characters = [
         name: 'Biff Tannen',
         image: 'https://upload.wikimedia.org/wikipedia/en/thumb/1/15/BiffTannenBackToTheFuture1985.jpg/220px-BiffTannenBackToTheFuture1985.jpg',
     },
+    {
+        id: 4,
+        name: 'Lorraine Baines McFly',
+        image: 'https://static.wikia.nocookie.net/p__/images/7/7a/8FC51F9D-0E81-4DD3-B7EC-3D43508532D6.jpg/revision/latest?cb=20220304101815&path-prefix=protagonist'
+    }
 ];
 
 // Endpoint to get all characters
